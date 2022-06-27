@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    android:id="@+id/selected" android:oneshot="false">
+
+    <item android:drawable="@drawable/sad2" android:duration="155" />
+    <item android:drawable="@drawable/sad3" android:duration="155" />
+    <item android:drawable="@drawable/sad4" android:duration="155" />
+    <item android:drawable="@drawable/sad5" android:duration="155" />
+    <item android:drawable="@drawable/sad6" android:duration="155" />
+    <item android:drawable="@drawable/sad7" android:duration="155" />
+    <item android:drawable="@drawable/sad8" android:duration="155" />
+    <item android:drawable="@drawable/sad9" android:duration="155" />
+    <item android:drawable="@drawable/sad10" android:duration="155" />
+    <item android:drawable="@drawable/sad11" android:duration="155" />
+    <item android:drawable="@drawable/sad12" android:duration="155" />
+    <item android:drawable="@drawable/sad13" android:duration="155" />
+    <item android:drawable="@drawable/sad14" android:duration="155" />
+    <item android:drawable="@drawable/sad15" android:duration="155" />
+    <item android:drawable="@drawable/sad16" android:duration="155" />
+    <item android:drawable="@drawable/sad17" android:duration="155" />
+    <item android:drawable="@drawable/sad18" android:duration="155" />
+    <item android:drawable="@drawable/sad19" android:duration="155" />
+    <item android:drawable="@drawable/sad20" android:duration="155" />
+    <item android:drawable="@drawable/sad1" android:duration="155" />
+    <item android:drawable="@drawable/sad20" android:duration="155" />
+    <item android:drawable="@drawable/sad19" android:duration="155" />
+    <item android:drawable="@drawable/sad18" android:duration="155" />
+    <item android:drawable="@drawable/sad17" android:duration="155" />
+    <item android:drawable="@drawable/sad16" android:duration="155" />
+    <item android:drawable="@drawable/sad15" android:duration="155" />
+    <item android:drawable="@drawable/sad14" android:duration="155" />
+    <item android:drawable="@drawable/sad13" android:duration="155" />
+    <item android:drawable="@drawable/sad12" android:duration="155" />
+    <item android:drawable="@drawable/sad11" android:duration="155" />
+    <item android:drawable="@drawable/sad10" android:duration="155" />
+    <item android:drawable="@drawable/sad9" android:duration="155" />
+    <item android:drawable="@drawable/sad8" android:duration="155" />
+    <item android:drawable="@drawable/sad7" android:duration="155" />
+    <item android:drawable="@drawable/sad6" android:duration="155" />
+    <item android:drawable="@drawable/sad5" android:duration="155" />
+    <item android:drawable="@drawable/sad4" android:duration="155" />
+    <item android:drawable="@drawable/sad3" android:duration="155" />
+
+</animation-list>

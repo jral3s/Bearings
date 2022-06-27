@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Bearings </string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Clothes</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="weekNumber">
+        <item> Week One</item>
+        <item> Week Two</item>
+        <item> Week Three</item>
+        <item> Week Four</item>
+    </string-array>
+
+    <string name="geofence_enter">Now entering %1$s</string>
+    <string name="geofence_dwell">Dwelling in %1$s</string>
+    <string name="geofence_exit">Now exiting %1$s</string>
+    <string name="events">Events</string>
+    <string name="map">Map</string>
+    <string name="currentLocation">42.3591, -71.0948</string>
+    <string name="transition">Transition</string>
+    <string name="geofence_not_available">Geofence service is not available now</string>
+    <string name="geofence_too_many_geofences">App registered too many geofences</string>
+    <string name="geofence_too_many_pending_intents">Too many PendingIntents provided</string>
+    <string name="unknown_geofence_error">Unknown error</string>
+    <string name="geofences_added">Geofences added</string>
+    <string name="geofences_removed">Geofences removed</string>
+
+    <string name="insufficient_permissions">Insufficient permissions.</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+
+
+</resources>
